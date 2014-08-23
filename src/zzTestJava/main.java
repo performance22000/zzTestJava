@@ -11,4 +11,9 @@ public class main {
 
 	}
 
+
+	void bbb() {
+
+	}
+
 }
